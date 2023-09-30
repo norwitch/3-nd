@@ -1,0 +1,54 @@
+QUERY1
+[18]
+George Note 
+
+Robert Wood 
+
+Adam Stapleton 
+
+...
+
+
+QUERY2
+[868]
+Jerry Sadman
+
+Betty Wozniak 
+
+Luke Perry
+
+...
+
+
+Query4
+[508]
+Betty Wozniak 
+
+Luke Perry 
+
+Angelina Darry 
+
+...
+
+
+QUERY5
+[249]
+Wilhelm King 
+
+
+Angelina Darry
+
+
+Sarah Hat
+
+...
+
+QUERY7
+[194]
+Jerry Sadman
+
+Betty Wozniak 
+
+George Note
+
+...
